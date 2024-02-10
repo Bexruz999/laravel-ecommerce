@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+}
+
+.menu-item {
+    padding: 10px;
+    border: 1px solid blue;
+    list-style: none;
+}
+
+.menu-item a {
+    text-decoration: none;
+}
+
+.active {
+    background: #f5f6fa;
+}
